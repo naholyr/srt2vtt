@@ -1,3 +1,8 @@
+@naholyr's fork:
+
+* includes fixed codepage issue
+* install with ``@naholyr/srt2vtt``
+
 # srt2vtt
 
 [![NPM](https://nodei.co/npm/srt2vtt.png)](https://nodei.co/npm/srt2vtt/)
